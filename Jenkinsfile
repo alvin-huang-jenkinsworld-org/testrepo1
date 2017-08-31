@@ -1,3 +1,3 @@
 node {
-  echo 'hello from testrepo1'
+  echo 'hello from testrepo1!'
 }
